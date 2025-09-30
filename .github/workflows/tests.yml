@@ -99,6 +99,7 @@ jobs:
       - Test_Sub
       - Test_Mul
       - Test_Div
+      - Test_Car
     steps:
       - name: Echo déploiement
         run: echo "Déploiement de la solution"
